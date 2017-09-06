@@ -1,2 +1,2 @@
 # commit-subject-lengths
-commit subject length testing
+Testing how commit message subjects are truncated.
